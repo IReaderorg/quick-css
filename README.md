@@ -51,6 +51,16 @@ set GEMINI_API_KEY=your-key-here
 python scripts/devtools/create_source_interactive.py your_config.json
 ```
 
+Use the **IReader Selector Helper** Chrome extension to easily find CSS selectors on any website:
+
+1. Install the extension from `scripts/devtools/extension/`
+2. Click the extension icon on any novel website
+3. Drag to select an area → get all CSS selectors
+4. Copy the ones you need for your source
+
+📖 **[Quick Start Guide](./SELECTOR_HELPER_QUICKSTART.md)** (5 minutes)  
+📚 **[Full Documentation](./SELECTOR_HELPER_GUIDE.md)**
+
 ## 🎯 Extension Features
 
 ### Smart Selection
